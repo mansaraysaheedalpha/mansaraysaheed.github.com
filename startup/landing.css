@@ -1,0 +1,42 @@
+body {
+	background-image: url('computer1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	font-family: 'Arial', sans-serif;
+	display: flex;
+	flex-direction: colum;
+	justify-content: center;
+	align-items: flex-end;
+	margin: 0;
+}
+body h1 {
+	margin-bottom: 10rem;
+}
+
+body a {
+	margin-bottom: 5rem;
+}
+
+
+
+
+header {
+	text-align: center;
+
+}
+
+h1 {
+	font-size: 3rem;
+	font-weight: bold;
+	margin-bottom: 2rem;
+}
+
+.btn {
+	font-size: 1.2rem;
+	
+	background-color: red;
+	border-radius: 50px;
+}
+
