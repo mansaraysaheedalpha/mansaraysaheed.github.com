@@ -1,9 +1,6 @@
 body {
-	background-image: url('computer1.jpg');
-	background-repeat: no-repeat;
+	background-image: url('computer1.jpg') no-repeat center center fixed;
 	background-size: cover;
-	background-position: center;
-	height: 100vh;
 	font-family: 'Arial', sans-serif;
 	display: flex;
 	flex-direction: colum;
